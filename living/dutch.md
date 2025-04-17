@@ -2,23 +2,30 @@
 
 Additional names:
 - Nederlands
-- 
 
 News:
-- 
-- 
+- https://www.nos.nl
+- https://www.nu.nl
+- https://www.rtl.nl
+- https://www.vrt.be/vrtnws/nl
+- https://www.hln.be/nieuws
 
 Culture / History:
-- 
-- 
+- https://www.canonvannederland.nl
+- https://www.literatuurvlaanderen.be
+- https://www.hebban.nl
+- https://www.bibliotheek.nl
 
 Government:
-- 
+- https://www.rijksoverheid.nl
 - 
 
 Political Parties:
-- 
-- 
+- https://www.pvv.nl
+- https://groenlinkspvda.nl
+- https://www.vvd.nl
+- https://www.cda.nl
+- https://www.sp.nl
 
 Other:
 - https://nl.wikipedia.org
